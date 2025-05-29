@@ -1,5 +1,5 @@
-#Tarea 1 
-###1 - Describe una base de datos y sus relaciones de manera no estructurada (puede ser un párrafo, lista, esquema...) con la que trabajaras durante el tetramestre Agregar el tipo de Datos que supones tendrá cada uno de tus atributos.
+# Tarea 1 
+### 1 - Describe una base de datos y sus relaciones de manera no estructurada (puede ser un párrafo, lista, esquema...) con la que trabajaras durante el tetramestre Agregar el tipo de Datos que supones tendrá cada uno de tus atributos.
 
 Probablemente y como me gusta batallar usare la **ENIGH** *(Encuesta Nacional de Ingresos y Gastos de los Hogares)* . Es una encuesta muy completa con una base de datos muy robusta y compleja que usan muchos Economistas para analizar cambios en los patrones de consumo así como analizar efectos de políticas o cambios en el comportamiento sociodemografíco de las personas. 
 
@@ -8,7 +8,7 @@ Para este caso tenemos la fortuna de que la encuesta tiene su propio [Descriptor
 Adicionalmente comparto el esquema de la base de datos para que puedan darse una idea de que contiene.
 
 
-###2 - Investigar diferentes SGBD, elegir algunos y describirlos. Citar Adecuadamente. Plagio invalida tarea.
+### 2 - Investigar diferentes SGBD, elegir algunos y describirlos. Citar Adecuadamente. Plagio invalida tarea.
 En este caso decidi citar los 5 Gestores de Bases de Datos que e tenido la oportunidad de usar en mi vida laboral.
 
 Empezare por definir que es un *Gestor de Base de Datos* en pocas palabras en un software que te permite almacenar y consultar la información de tus bases de datos de una manera más practica. En pocas palabras es una interfaz que gestiona tus bases de datos para que tu o tus sistemas las consulten. Tengo entendido que no solo difieren al momento de hablar de algunas funciones de codigo que algunas tienen y otras no. Si no que a su vez difieren entre como estan programadas y que métodos usan para acceder a la información de manera más rapida y eficiente pero bueno eso es tema aparte.
