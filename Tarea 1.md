@@ -6,7 +6,7 @@ Probablemente y como me gusta batallar usare la **ENIGH** *(Encuesta Nacional de
 Para este caso tenemos la fortuna de que la encuesta tiene su propio [Descriptor de Base de Datos](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/889463910626.pdf) aqui voy a poder encontrar toda la información relevante con respecto a la base, sus variables y sus relaciones entre tablas. Se que voy a poder encontrar información sociodemografico de los individuos como sexo, edad, estudios, estado civil etc. A su vez esta se va relacionar con información de que compran, donde podremos ver gasto, cantidades, precios, frecuencias. Asi como tambien contiene información de los ingresos del individuo e información de su trabajo. Suponque que tendre datos de todo tipo strings, bools, floats, integers en una de esas cordenadas por si quiero geolocalizar algo.
 
 Adicionalmente comparto el esquema de la base de datos para que puedan darse una idea de que contiene.
-![Esquema]([https://github.com/MauSierra/Curso_Base_de_Datos/Esquema_BD_ENIGH](https://github.com/MauSierra/Curso_Base_de_Datos/blob/44d501f3a3fcecb708b052aec9b9faa2af3a0300/Esquema%20BD%20ENIGH.png))
+![Esquema]((https://github.com/MauSierra/Curso_Base_de_Datos/blob/main/Esquema%20BD%20ENIGH.png))
 
 ### 2 - Investigar diferentes SGBD, elegir algunos y describirlos. Citar Adecuadamente. Plagio invalida tarea.
 En este caso decidi citar los 5 Gestores de Bases de Datos que e tenido la oportunidad de usar en mi vida laboral.
