@@ -4,3 +4,4 @@ Mauricio Alejandro Sierra Segovia 2076860
 Licenciado en Economía
 
 ### [Tarea 1 - Crear un Git, ¿Que Base usaras en el Curso? y diferentes SGBD](https://github.com/MauSierra/Curso_Base_de_Datos/blob/baae56d73317dfa0400e9c5bb1d2a40705bf02aa/Tarea%201.md)
+### [Tarea 2 - Diagrama de la Base de Datos](https://github.com/MauSierra/Curso_Base_de_Datos/blob/baae56d73317dfa0400e9c5bb1d2a40705bf02aa/Tarea%201.md)
