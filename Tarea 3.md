@@ -1,7 +1,7 @@
 # Tarea 3
 -> Crear un esquema del modelo relacional de la base de datos a partir del modelo e-r de la tarea anterior.
 Supongo que es este solo lo hice para una de la tablas:
-![Tabla](image-url)
+![Tabla](https://github.com/MauSierra/Curso_Base_de_Datos/blob/4e97aef9663104a48ff502c9ba6d5c0f6ca45b13/Diagrama%20Tarea%203.png)
 
 
 -> Representar con un diagrama relacional tu esquema del punto anterior.
