@@ -13,3 +13,4 @@ Licenciado en Economía
 ### [Tarea 5 - Cargar datos Falsos](https://github.com/MauSierra/Curso_Base_de_Datos/blob/3aec71d9dac9d072fe5c51f5417eeb576e06fc6a/Tarea%205.md)
 ### [Tarea 6 - Palabras Clave](https://github.com/MauSierra/Curso_Base_de_Datos/blob/93a07ed9324609da20810f69d0feb453d2293905/%23%20Tarea%206.md)
 ### [Tarea 7 - Subquery](https://github.com/MauSierra/Curso_Base_de_Datos/blob/a1db815866bf877839c4edb399b2cea72b440de1/Tarea%207.md)
+### [Tarea 8 - Vistas](https://github.com/MauSierra/Curso_Base_de_Datos/blob/be7170d1d7c2cc3c5deff9f12e1efca3c22496d6/Tarea%208.md)
